@@ -2,13 +2,12 @@
 A simple Java console-based ATM simulation that allows users to perform basic banking operations such as checking balance, depositing money, withdrawing money, and viewing a mini statement.
 
 ## 🚀 Features
-
-1. 🔐 User authentication with Card Number:1 2345 and PIN: 123
-2. 💰 View available balance
-3. ➕ Deposit money
-4. ➖ Withdraw money
-5. 🧾 Mini statement (recent transactions)
-6. 🚪 Exit option
+    🔐 User authentication with Card Number:1 2345 and PIN: 123
+    💰 View available balance
+    ➕ Deposit money
+    ➖ Withdraw money
+    🧾 Mini statement (recent transactions)
+    🚪 Exit option
 
 ## 🛠️ Technologies Used
 
@@ -19,11 +18,11 @@ A simple Java console-based ATM simulation that allows users to perform basic ba
 ## 📂 Project Structure
 ATM_Machine/
 │-- src/
-│    │-- ATM/
-│       │-- Atm.java
-│       │-- OperationsInterface.java
-│       │-- OperationsImplemented.java
-│       │-- MainClass.java
+    │    │-- ATM/
+    │       │-- Atm.java
+    │       │-- OperationsInterface.java
+    │       │-- OperationsImplemented.java
+    │       │-- MainClass.java
 │-- README.md
 
 
