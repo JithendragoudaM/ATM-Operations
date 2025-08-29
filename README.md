@@ -23,7 +23,8 @@ A simple Java console-based ATM simulation that allows users to perform basic ba
 │ │-- OperationsInterface.java
 │ │-- OperationsImplemented.java
 │ │-- MainClass.java
-│-- README.md ```
+│-- README.md
+```    
 
 ## Example Output
 ``` Welcome to ATM Machine !!!
