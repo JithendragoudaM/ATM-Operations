@@ -16,7 +16,7 @@ A simple Java console-based ATM simulation that allows users to perform basic ba
 +  Eclipse IDE (or any Java IDE)
 
 ## 📂 Project Structure
-```ATM_Machine/
+``` ATM_Machine/
 │-- src/
 │ │-- ATM/
 │ │-- Atm.java
@@ -57,7 +57,7 @@ Available Balnace: 5000.0
 2.Withdraw Amount
 3.Deposite Amount
 4.Mini Statement
-5.Exit
+5.Exit ```
 
 
 Enter Choice: 2
