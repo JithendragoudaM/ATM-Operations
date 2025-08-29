@@ -16,13 +16,15 @@ A simple Java console-based ATM simulation that allows users to perform basic ba
 +  Eclipse IDE (or any Java IDE)
 
 ## 📂 Project Structure
+'''
 ATM_Machine/
 │-- src/
-    │    │-- ATM/
-    │       │-- Atm.java
-    │       │-- OperationsInterface.java
-    │       │-- OperationsImplemented.java
-    │       │-- MainClass.java
+│ │-- ATM/
+│ │-- Atm.java
+│ │-- OperationsInterface.java
+│ │-- OperationsImplemented.java
+│ │-- MainClass.java
+│-- .gitignore
 │-- README.md
-
+'''
 
