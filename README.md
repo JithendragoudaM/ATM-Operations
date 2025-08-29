@@ -19,13 +19,11 @@ Eclipse IDE (or any Java IDE)
 ## 📂 Project Structure
 ATM_Machine/
 │-- src/
-│   │-- ATM/
-│       │-- Atm.java
-│       │-- OperationsInterface.java
-│       │-- OperationsImplemented.java
-│       │-- MainClass.java
-│-- .gitignore
+│ │-- ATM/
+│ │-- Atm.java
+│ │-- OperationsInterface.java
+│ │-- OperationsImplemented.java
+│ │-- MainClass.java
 │-- README.md
-
 
 
