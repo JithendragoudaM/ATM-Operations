@@ -25,3 +25,44 @@ A simple Java console-based ATM simulation that allows users to perform basic ba
 │ │-- MainClass.java
 │-- README.md```
 
+## Example Output
+```
+Welcome to ATM Machine !!!
+Enter ATM Number: 12345
+Enter ATM PIN: 123
+
+1.View Available Balance
+2.Withdraw Amount
+3.Deposite Amount
+4.Mini Statement
+5.Exit
+
+
+Enter Choice: 1
+Available Balnace: 0.0
+
+1.View Available Balance
+2.Withdraw Amount
+3.Deposite Amount
+4.Mini Statement
+5.Exit
+
+
+Enter Choice: 3
+Enter Amount to deposite: 5000
+5000.0 Diposited Successfully
+Available Balnace: 5000.0
+
+1.View Available Balance
+2.Withdraw Amount
+3.Deposite Amount
+4.Mini Statement
+5.Exit
+
+
+Enter Choice: 2
+Enter Amount for withdraw: 300
+Please collect the cash
+Available Balnace: 4700.0
+```
+
