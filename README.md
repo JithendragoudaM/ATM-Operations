@@ -63,5 +63,6 @@ Available Balnace: 5000.0
 Enter Choice: 2
 Enter Amount for withdraw: 300
 Please collect the cash
-Available Balnace: 4700.0 ```
+Available Balnace: 4700.0
+```    
 
